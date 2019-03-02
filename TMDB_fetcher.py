@@ -66,6 +66,7 @@ SHEET_SUFFIX = '_tmdb.txt'
 POSTER_SUFFIX = '_tmdb'
 
 
+
 class dbFile:
     "generic catalog file, class to be inherited"
     SEPARATOR = '-'*40+'\n'
