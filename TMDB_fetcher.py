@@ -167,9 +167,9 @@ class NoteFile(dbFile):
     def removeFilm(self, mv):
         """ used while updating the Notes file : remove if exist the film entry"""
         lines = self.fileTxt.rstrip().split('\n')     # removes trailing newline before splitting
-        searchExp =  re.escape("Chemin : {}".format (mv.filePath))   
+        searchExp =  re.escape("Chemin : {}".format(mv.filePath))   
         sepExp = '^' + dbFile.SEPARATOR[:10]
-        # look for the movie record lin beginning and line end
+        # look for the movie record line beginning and line end
         prevSepIdx = None
         nextSepIdx = None
         recordFound = False
@@ -184,10 +184,10 @@ class NoteFile(dbFile):
             if re.search(searchExp, l):  # found the record
                 recordFound = True
         # delete the record if found
-        if recordFound and prevSepIdx and prevSepIdx:
+        if recordFound and prevSepIdx and nextSepIdx:
             del lines[prevSepIdx : nextSepIdx+1]
             self.nbFilms -= 1
-       # rejoin the lines         
+        # rejoin the lines         
         self.fileTxt = '\n'.join(lines)+'\n\n\n'
         
 class Film:
