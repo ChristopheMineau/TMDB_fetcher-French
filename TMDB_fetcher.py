@@ -166,7 +166,7 @@ class NoteFile(dbFile):
         
     def removeFilm(self, mv):
         """ used while updating the Notes file : remove if exist the film entry"""
-        lines = self.fileTxt.rstrip().split('\n')     # removes trailing newline before splitting
+        lines = self.fileTxt.split('\n')     # removes trailing newline before splitting
         searchExp =  re.escape("Chemin : {}".format(mv.filePath))   
         sepExp = '^' + dbFile.SEPARATOR[:10]
         # look for the movie record line beginning and line end
@@ -188,7 +188,7 @@ class NoteFile(dbFile):
             del lines[prevSepIdx : nextSepIdx+1]
             self.nbFilms -= 1
         # rejoin the lines         
-        self.fileTxt = '\n'.join(lines)+'\n\n\n'
+        self.fileTxt = '\n'.join(lines)
         
 class Film:
     def __init__(self, f, dontKeepIfExist):
@@ -632,9 +632,14 @@ if __name__ == "__main__":
         movieDB = MovieDB(DIRPATH)
         
         if FILE:   # Only while file has to be handled, no need to walk through everything
-            movieDB.handleMovie(FILE, dontKeepIfExist=True)
-            movieDB.updateCatalog()
-            movieDB.updateMovieNotesFile()
+            filename = os.path.basename(FILE)
+            dirpath = os.path.dirname(FILE)
+            if os.path.isfile(FILE) and Film.isMovie(filename, dirpath): 
+                movieDB.handleMovie(FILE, dontKeepIfExist=True)
+                movieDB.updateCatalog()
+                movieDB.updateMovieNotesFile()
+            else:
+                LOGGER.error("Le fichier {} n'existe pas ou n'est pas un film.".format(FILE))
         else:      # walk through the Dir tree to find movies
             movieDB.lookForMovies()
             movieDB.doBuildCatalog()
