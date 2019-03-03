@@ -37,8 +37,8 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
 
 Usage:
     TMDB_fetcher.py <rootDirPath> --key=<TMDB_KEY>   [--verbose] 
-    TMDB_fetcher.py <rootDirPath> --key=<TMDB_KEY>   --file=<filePath>
-    TMDB_fetcher.py <rootDirPath> --cleanup
+    TMDB_fetcher.py <rootDirPath> --key=<TMDB_KEY>   --file=<filePath> [--verbose] 
+    TMDB_fetcher.py <rootDirPath> --cleanup [--verbose] 
     TMDB_fetcher.py  (-h | --help)
 
 Options:
@@ -98,7 +98,7 @@ class dbFile:
         
     def addFilm(self, mv):
         self.fileTxt += self.txtFormat(mv)
-        self. nbFilms += 1
+        self.nbFilms += 1
     
     def writeFile(self):
         global LOGGER
@@ -106,10 +106,30 @@ class dbFile:
         with open(self.filePath, "w", encoding="utf-8") as fh:
             fh.write("Fichier édité le {} par TMDB_fetcher.py version {}.\n".format(datetime.datetime.now(), VERSION))
             fh.write("Copyright C.Mineau - TMDB_fetcher.py est disponible ici : https://github.com/ChristopheMineau/TMDB_fetcher-French.\n")
-            fh.write("La base contient à cette date {} films.\n\n".format(self. nbFilms))
+            fh.write("La base contient à cette date {} films.\n\n".format(self.nbFilms))
             fh.write(self.fileTxt)
             LOGGER.debug("Fichier créé : '{}'".format(self.filePath))
         print("Consulter le fichier : '{}'".format(self.filePath))
+        
+    def readFile(self):
+        global LOGGER
+        if not os.path.isfile(self.filePath):
+            LOGGER.error("Fichier non trouvé : '{}'".format(self.filePath))
+            return False
+        
+        with open(self.filePath, "r", encoding="utf8") as fh:
+            self.fileTxt = fh.read()
+            LOGGER.debug("Lecture fichier : '{}'".format(self.filePath))
+        #fileListExp = r"^La base contient à cette date (\d+) films.\n\n([\s\S]*)"
+        fileListExp = r"cette date (\d+) films.\n\n([\s\S]*)"
+        m = re.search(fileListExp, self.fileTxt, re.MULTILINE)
+        if m:
+            self.nbFilms = int(m.group(1))
+            self.fileTxt = m.group(2)
+        else:
+            LOGGER.error("Erreur: format incorrect pour le fichier : '{}'".format(self.filePath))
+            return False
+        return True
     
 class Catalog(dbFile):
     def __init__(self, f):
@@ -119,6 +139,17 @@ class Catalog(dbFile):
     def txtFormat(self, mv): 
         "mv is of class Film"
         return "Titre: '{}'    --- Année: '{}'    --- Fiche: {}  --- {}  \n".format(mv.filmName, mv.filmYear, "oui" if mv.note else "non", mv.filePath)
+    
+    def removeFilm(self, mv):
+        """ used while updating the catalog : remove if exist the film entry"""
+        lines = self.fileTxt.rstrip().split('\n')     # removes trailing newline before splitting
+        searchExp = "Titre: '{}'    ---".format(mv.filmName)
+        for l in lines:
+            if re.search(searchExp, l):
+                lines.remove(l)
+                break
+        self.fileTxt = '\n'.join(lines)+'\n'
+        self.nbFilms = len(lines)
         
 class NoteFile(dbFile):
     def __init__(self, f):
@@ -133,7 +164,31 @@ class NoteFile(dbFile):
             note = "Chemin : {}\nAucune info sur TMDB.".format(mv.filePath)
         return "{sep}{}\n{sep}\n\n".format(note, sep=dbFile.SEPARATOR)
         
-        
+    def removeFilm(self, mv):
+        """ used while updating the Notes file : remove if exist the film entry"""
+        lines = self.fileTxt.rstrip().split('\n')     # removes trailing newline before splitting
+        searchExp =  re.escape("Chemin : {}".format (mv.filePath))   
+        sepExp = '^' + dbFile.SEPARATOR[:10]
+        # look for the movie record lin beginning and line end
+        prevSepIdx = None
+        nextSepIdx = None
+        recordFound = False
+        for idx, l in enumerate(lines):
+            if re.search(sepExp, l):
+                if recordFound:          # we are inside the searched record
+                    nextSepIdx = idx + 2 # include the 2 newlines after line separator
+                    break
+                else:
+                    prevSepIdx = idx     # this a beginning of a record
+                    continue
+            if re.search(searchExp, l):  # found the record
+                recordFound = True
+        # delete the record if found
+        if recordFound and prevSepIdx and prevSepIdx:
+            del lines[prevSepIdx : nextSepIdx+1]
+            self.nbFilms -= 1
+       # rejoin the lines         
+        self.fileTxt = '\n'.join(lines)+'\n\n\n'
         
 class Film:
     def __init__(self, f, dontKeepIfExist):
@@ -185,12 +240,12 @@ class Film:
         if os.path.isfile(sheetPath):
             LOGGER.info("La fiche existe déjà pour le film  : '{}'".format(f))
             if dontKeepIfExist:
-                sheetPath = None
                 try:
                     os.remove(sheetPath)
                     LOGGER.info("Fichier supprimé : '{}'".format(sheetPath))
                 except:
                     LOGGER.warn("Impossible de supprimer : '{}'".format(sheetPath))
+                sheetPath = None
         else:
             sheetPath = None
         
@@ -421,6 +476,13 @@ class Film:
         fileName, fileExt = os.path.splitext(baseName)
         posterName, posterExt = os.path.splitext(self.poster)
         posterPath = os.path.join(dirName, fileName + POSTER_SUFFIX + posterExt)
+        if os.path.isfile(posterPath):
+            LOGGER.info("Affiche existe déjà : {}".format(posterPath))
+            try:
+                os.remove(posterPath)
+                LOGGER.info("Affiche supprimée : {}".format(posterPath))
+            except:
+                LOGGER.warn("Impossible de supprimer : {}".format(posterPath))
         try:
             downloadName = wget.download(self.poster, out=posterPath)
             LOGGER.info("Affiche téléchargée : {}".format(posterPath))
@@ -458,7 +520,10 @@ class MovieDB:
     def updateMovieNotesFile(self):
         """updates the existing sheets with the added film
            In this case the db contains only 1 film"""
-        pass
+        if self.noteFile.readFile():
+           self.noteFile.removeFilm(self.movieDB[0])
+           self.noteFile.addFilm(self.movieDB[0])
+           self.noteFile.writeFile()
     
     def doBuildCatalog(self):
         "makes a catalog listing the found files"
@@ -469,7 +534,10 @@ class MovieDB:
     def updateCatalog(self):
         """updates the existing catalog with the added film
             In this case the db contains only 1 film"""
-        pass
+        if self.movieCatalog.readFile():
+           self.movieCatalog.removeFilm(self.movieDB[0])
+           self.movieCatalog.addFilm(self.movieDB[0])
+           self.movieCatalog.writeFile()
 
 
 def doCleanup(p):
@@ -500,18 +568,6 @@ def doCleanup(p):
                 LOGGER.debug("Fichier supprimé : '{}'".format(filepath))
                 
                 
-                
-def removeDupPosters(p):
-    list=[]
-    for (dirpath, dirnames, filenames) in os.walk(p):
-        for filename in filenames:
-            filepath = os.path.join(dirpath, filename)
-            namefile, file_extension = os.path.splitext(filepath)
-            if re.search(' \(\d\)$',namefile):
-                list.append(filepath) 
-    for l in list:
-        print("removing {}".format(l))
-        os.remove(l)
                 
 
 
@@ -577,8 +633,8 @@ if __name__ == "__main__":
         
         if FILE:   # Only while file has to be handled, no need to walk through everything
             movieDB.handleMovie(FILE, dontKeepIfExist=True)
-            movieDB.updateCatalog(FILE)
-            movieDB.updateMovieNotesFile(FILE)
+            movieDB.updateCatalog()
+            movieDB.updateMovieNotesFile()
         else:      # walk through the Dir tree to find movies
             movieDB.lookForMovies()
             movieDB.doBuildCatalog()
