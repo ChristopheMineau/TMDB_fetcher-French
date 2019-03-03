@@ -631,7 +631,7 @@ if __name__ == "__main__":
         
         movieDB = MovieDB(DIRPATH)
         
-        if FILE:   # Only while file has to be handled, no need to walk through everything
+        if FILE:   # Only one file has to be handled, no need to walk through everything
             filename = os.path.basename(FILE)
             dirpath = os.path.dirname(FILE)
             if os.path.isfile(FILE) and Film.isMovie(filename, dirpath): 
