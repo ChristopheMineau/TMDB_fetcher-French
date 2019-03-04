@@ -26,6 +26,10 @@ Note : A key must be obtained by registering an account at https://www.themovied
        The key must be provided as a parameter.
        La clé doit être fournie en paramètre.
        
+Note 2 : Si on souhaite éviter certains répertoires (séries TV par exemple), il suffit
+       d'ajouter "_NOTMDB" dans le nom du répertoire.
+       De même, pour les partie2 ou CD2, on peut ajouter _NOTMDB au nom pour passer.
+       
 The tool can be relaunched in case of new files addition, only new files will be handled.
 It is possible to delete all informations with the --cleanup otion.
 A single file can also be handled using option --file (replacing previous informations).
@@ -82,6 +86,7 @@ CATALOG = "___CATALOGUE_FILMS.TXT"
 SHEETS = "___FICHES_FILMS.TXT"
 SHEET_SUFFIX = '_tmdb.txt'
 POSTER_SUFFIX = '_tmdb'
+DO_NOT_INDEX = '_NOTMDB'
 
 
 
@@ -223,7 +228,12 @@ class Film:
     
     @classmethod    
     def isMovie(cls,f, p):
+        global DO_NOT_INDEX
         if "RECYCLE.BIN" in p:    # filters the trash on Windows
+            return False
+        if DO_NOT_INDEX in p:    # filters explicitely what must not be indexed
+            return False
+        if DO_NOT_INDEX in f:    # filters explicitely what must not be indexed
             return False
         filename, file_extension = os.path.splitext(f)
         return file_extension.lower() in {'.avi', '.mp4', '.mpg', '.mpeg'}
@@ -266,6 +276,7 @@ class Film:
             year = None
             filmName = fileName
         filmName = filmName.replace('.',' ')
+        filmName = filmName.replace('_',' ')
         LOGGER.info("\n\n"+'-'*80+"\n{} ==> Titre='{}' année='{}'".format(p, filmName , year)) 
         return filmName, year, fileExtension 
     
@@ -436,8 +447,7 @@ class Film:
             writersList = [d['name'] for d in credits.crew if d['job']=="Screenplay"]
             music = [d['name'] for d in credits.crew if "Music" in d['job']]
             pays = [p['name'] for p in details.production_countries]
-            self.poster = "http://image.tmdb.org/t/p/w400" + details.poster_path
-            
+            self.poster = "http://image.tmdb.org/t/p/w400" + details.poster_path if details.poster_path else None
             self.note = "Titre : {}\n".format (details.title)
             self.note += "Chemin : {}\n".format (self.filePath)    
             self.note += "Année : {}\n".format (Film.getYearFromTmdbDate(details.release_date))
