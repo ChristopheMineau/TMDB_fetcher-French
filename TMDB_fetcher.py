@@ -291,7 +291,16 @@ class Film:
         self.tmdbId = None
         self.possibleList = []
         print("Recherche d'informations sur le film '{}'.".format(self.filmName))
-        filmList =  MOVIE.search(self.filmName)
+        pg = 1
+        filmList = []
+        searchEnd = False
+        while not searchEnd and pg<=4: 
+            pageList =  MOVIE.search(self.filmName, page=pg)
+            filmList += pageList
+            if len(pageList) != 20:
+                searchEnd = True
+            else:
+                pg += 1
         LOGGER.info("TMDB a retourné {} possibilités : {}".format(len(filmList), [f.title+'-'+f.release_date for f in filmList]))
         # check if in the list something matches with the file Year
         if self.filmYear:
@@ -336,7 +345,11 @@ class Film:
         LOGGER.debug("Liste de choix proposée pour le film '{}'".format(self.filmName))
         
         print("Plusieurs possibilités pour le film '{}'\nRenommer le film : \n ".format(self.filmName), end='')
-        choice=[ "\t{} : {} - {}".format(indice, f.title, f.release_date) for indice, f in enumerate(self.possibleList)]
+        choice=[ "\t{i} : {t} - {y} - {ot} - {ov}".format(i=indice, 
+                                                          t=f.title, 
+                                                          y=f.release_date,
+                                                          ot=f.original_title,
+                                                          ov=f.overview[:80]) for indice, f in enumerate(self.possibleList)]
         choice.append("\t{} : Autre titre".format(len(choice)))
         choice.append("\t{} : Passer".format(len(choice)))
         for c in choice:
@@ -401,7 +414,7 @@ class Film:
         
         def askUser():
             correctAnswer = False
-            print("Erreur de renommage du fichier {}\nS'il est en cours de lecture, veuillez le fermer.".format(self.filePath))
+            print("Erreur de renommage du fichier {}\nS'il est en cours de lecture, veuillez le fermer.\nPeut-être qu'un fichier existe déjà du même nom.".format(self.filePath))
             while not correctAnswer:
                 print("Ré-essayer ? (O/N) : ", end='')
                 r = input().lower()
@@ -652,6 +665,7 @@ if __name__ == "__main__":
                 LOGGER.error("Le fichier {} n'existe pas ou n'est pas un film.".format(FILE))
         else:      # walk through the Dir tree to find movies
             movieDB.lookForMovies()
+            LOGGER.info("\n\n")
             movieDB.doBuildCatalog()
             movieDB.doBuildMovieNotesFile()
     
