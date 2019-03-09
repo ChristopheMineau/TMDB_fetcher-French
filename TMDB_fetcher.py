@@ -344,7 +344,7 @@ class Film:
         
         LOGGER.debug("Liste de choix proposée pour le film '{}'".format(self.filmName))
         
-        print("Plusieurs possibilités pour le film '{}'\nRenommer le film : \n ".format(self.filmName), end='')
+        print("Plusieurs possibilités pour le film '{}'\nRenommer le film : \n ".format(self.filePath), end='')
         choice=[ "\t{i} : {t} - {y} - {ot} - {ov}".format(i=indice, 
                                                           t=f.title, 
                                                           y=f.release_date,
@@ -352,6 +352,7 @@ class Film:
                                                           ov=f.overview[:80]) for indice, f in enumerate(self.possibleList)]
         choice.append("\t{} : Autre titre".format(len(choice)))
         choice.append("\t{} : Passer".format(len(choice)))
+        choice.append("\t{} : Ignorer et ne plus demander à l'avenir.".format(len(choice)))
         for c in choice:
             print(c)
             LOGGER.debug("{}'".format(c))
@@ -363,11 +364,17 @@ class Film:
                 satisfyingAnswer = True
             else:
                 LOGGER.debug("Entrée incorrecte '{}'".format(r))                
-        LOGGER.info("Choix retenu '{}'".format(r))    
-        if int(r)==len(choice)-1:     # Passer
+        LOGGER.info("Choix retenu '{}'".format(r))  
+        if int(r)==len(choice)-1:     # Ignorer
+            fileName, fileExtension = os.path.splitext(os.path.basename(self.filePath))
+            ignoreName = fileName + DO_NOT_INDEX
+            self.renameFilm(ignoreName)
+            TMDBSearchEnd = True
+            self.tmdbId = None  
+        elif int(r)==len(choice)-2:     # Passer
             TMDBSearchEnd = True
             self.tmdbId = None
-        elif int(r)==len(choice)-2:  # Autre
+        elif int(r)==len(choice)-3:  # Autre
             TMDBSearchEnd = self.proposeRenaming(elseChoice=True)
         else:
             TMDBSearchEnd = True  # Choix parmi les films proposés
@@ -389,9 +396,9 @@ class Film:
             r='o'
         else:
             while not satisfyingAnswer:
-                print("La base de donnée TMDB ne connaît pas le film '{}'\nVoulez vous le renommer (O/N) ? : ".format(self.filmName), end='')
+                print("La base de donnée TMDB ne connaît pas le fichier '{}'\nVoulez vous le renommer (O/N) ou l'ignorer pour qu'il ne soit plus proposé (I) ? : ".format(self.filePath), end='')
                 r = input().lower()
-                satisfyingAnswer = True if r in ('o', 'n') else False
+                satisfyingAnswer = True if r in ('o', 'n','i') else False
             
         if r=="o":
             LOGGER.debug("  Nouveau nom :'{}'".format(r))
@@ -402,6 +409,14 @@ class Film:
                 r = input()
                 satisfyingAnswer = True if r else False
             TMDBSearchEnd = False if self.renameFilm(r) else True
+        elif r=='i':
+            LOGGER.debug("  Ignorer ce fichier.")
+            fileName, fileExtension = os.path.splitext(os.path.basename(self.filePath))
+            ignoreName = fileName + DO_NOT_INDEX
+            self.renameFilm(ignoreName)
+            TMDBSearchEnd = True
+            self.tmdbId = None
+            
         else:
             LOGGER.debug("  PAS de nouveau nom.")
             TMDBSearchEnd = True
@@ -489,7 +504,7 @@ class Film:
             with open(noteFileName, "w", encoding="utf-8") as f:
                     f.write(self.note)
         else:
-            LOGGER.warn("Aucune info pour le film : {}".format(self.filmName))  
+            LOGGER.info("Aucune info pour le film : {}".format(self.filmName))  
        
     def downloadPoster(self):
         global POSTER_SUFFIX
@@ -670,5 +685,6 @@ if __name__ == "__main__":
             movieDB.doBuildMovieNotesFile()
     
     LOGGER.info("{} - Fin de traitement TMDB_fetcher.py ".format(datetime.datetime.now()))
+    print("\nFin de traitement TMDB_fetcher.py ")
     
     
