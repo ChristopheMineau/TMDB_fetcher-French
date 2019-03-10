@@ -1,0 +1,12 @@
+Titre : Baby
+Chemin : D:\Divx\TV\Baby - 2015.mpg
+Année : 2015
+Acteurs : ['Akshay Kumar', 'Taapsee Pannu', 'Rana Daggubati', 'Danny Denzongpa', 'Anupam Kher', 'Madhurima Tuli', 'Kay Kay Menon', 'Sushant Singh', 'Mikaal Zulfikaar']
+Genre : ['Action', 'Thriller']
+Pays : ['India']
+Affiche : http://image.tmdb.org/t/p/w400/P4kay8niUQz9f14yhTSN7MpSrS.jpg
+Durée (mn) : 160
+Metteur en scène : ['Neeraj Pandey']
+Auteur : []
+Musique : ['M.M. Keeravaani', 'Meet Bros Anjjan']
+Synopsis : 

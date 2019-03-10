@@ -1,0 +1,12 @@
+Titre : Les Misérables
+Chemin : D:\Divx\TV\Dossier 1\Dossier 2\Les Misérables - 1917.mp4
+Année : 1917
+Acteurs : ['William Farnum', 'George Moss', 'Hardee Kirkland', 'Gretchen Hartman']
+Genre : ['Drame']
+Pays : []
+Affiche : http://image.tmdb.org/t/p/w400/7AOVSTPZyMYcZKHBxKDeCgCVzyW.jpg
+Durée (mn) : 90
+Metteur en scène : ['Frank Lloyd']
+Auteur : []
+Musique : []
+Synopsis : 

@@ -1,0 +1,19 @@
+Titre : Marie-Antoinette
+Chemin : D:\Divx\TV\Marie-Antoinette - 2006.mp4
+Année : 2006
+Acteurs : ['Kirsten Dunst', 'Jason Schwartzman', 'Judy Davis', 'Rip Torn', 'Rose Byrne', 'Asia Argento', 'Molly Shannon', 'Shirley Henderson', 'Danny Huston', 'Marianne Faithfull', 'Mary Nighy', 'Sebastian Armesto', 'Jamie Dornan', 'Aurore Clément', 'Guillaume Gallienne', 'James Lance', 'Al Weaver', 'Tom Hardy', 'Steve Coogan', 'Jean-Christophe Bouvet', 'Florrie Betts', 'Alain Doutey']
+Genre : ['Drame', 'Histoire']
+Pays : ['France', 'United States of America', 'Japan']
+Affiche : http://image.tmdb.org/t/p/w400/uLi383ZVk1DGH3yPdNSGLzQAERp.jpg
+Durée (mn) : 123
+Metteur en scène : ['Sofia Coppola']
+Auteur : ['Sofia Coppola']
+Musique : ["Dustin O'Halloran"]
+Synopsis : Évocation de la vie de la reine d'origine autrichienne, épouse mal-aimée de
+Louis XVI, guillotinée en 1793. Au sortir de l'adolescence, une jeune fille
+découvre un monde hostile et codifié, un univers frivole où chacun observe et
+juge l'autre sans aménité. Mariée à un homme maladroit qui la délaisse, elle est
+rapidement lassée par les devoirs de représentation qu'on lui impose. Elle
+s'évade dans l'ivresse de la fête et les plaisirs des sens pour réinventer un
+monde à elle. Y a-t-il un prix à payer à chercher le bonheur que certains vous
+refusent ?

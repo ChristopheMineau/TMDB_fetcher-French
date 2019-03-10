@@ -1,0 +1,20 @@
+Titre : Casino Royale
+Chemin : D:\Divx\TV\Dossier 1\Casino Royale - 2006.mp4
+Année : 2006
+Acteurs : ['Daniel Craig', 'Eva Green', 'Mads Mikkelsen', 'Judi Dench', 'Jeffrey Wright', 'Giancarlo Giannini', 'Caterina Murino', 'Simon Abkarian', 'Isaach De Bankolé', 'Jesper Christensen', 'Ivana Miličević', 'Tobias Menzies', 'Claudio Santamaria', 'Sebastien Foucan', 'Malcolm Sinclair', 'Richard Sammel', 'Ludger Pistor', 'Joseph Millson', 'Darwin Shaw', 'Clemens Schick', 'Emmanuel Avena', 'Tom Chadbon', 'Ade', 'Urbano Barberini', 'Tsai Chin', 'Lazar Ristovski', 'Veruschka von Lehndorff', 'Charlie Levi Leroy', 'Tom So', 'Andreas Daniel', 'Carlos Leal', 'Christina Cole', 'Jürgen Tarrach', 'John Gold', 'Jerry Inzerillo', 'Diane Hartford', 'Jessica Miller', 'Leo Stransky', 'Paul Bhattacharjee', 'Crispin Bonham-Carter', 'Simon Cox', 'Rebecca Gethings', 'Peter Notley', 'John Chancer', 'Peter Brooke', 'Jason Durran', 'Robert Jezek', 'Robert G. Slade', 'Félicité Du Jeu', 'Michaela Ochotská', 'Michael Offei', 'Makhoudia Diaw', 'Michael G. Wilson', 'Martina Duravolá', 'Marcela Martincáková', 'Vladimir Kulhavy', 'Valentine Nonyela', 'Dusan Pelech', 'Phil Meheux', 'Alessandra Ambrosio', 'Veronika Hladikova', 'Regina Gabajová', 'Olutunji Ebun-Cole', 'Martin Učík', 'Vlastina Svátková', 'Miroslav Šimůnek', "Ivan G'Vera", 'Jirí Lenc', 'Jaroslav Jankovsky', 'Lasco Atkins', 'Richard Branson', 'Martin Campbell', 'Tara Cardinal', 'Ben Cooke', 'Nigel Pilkington', 'Simona Roman', 'Victor Sobchak', 'Valarie Trapp', 'Greg Bennett']
+Genre : ['Aventure', 'Action', 'Thriller']
+Pays : ['Italy', 'United Kingdom', 'United States of America', 'Czech Republic', 'Germany']
+Affiche : http://image.tmdb.org/t/p/w400/chKDZOnowXuO5aRvIVrQfEz7CjC.jpg
+Durée (mn) : 138
+Metteur en scène : ['Martin Campbell']
+Auteur : ['Neal Purvis', 'Robert Wade', 'Paul Haggis']
+Musique : ['David Arnold', 'Dominic Gibbs', 'Robin Whittaker']
+Synopsis : Pour sa première mission, James Bond affronte le tout-puissant banquier privé du
+terrorisme international, Le Chiffre. Pour achever de le ruiner et démanteler le
+plus grand réseau criminel qui soit, Bond doit le battre lors d'une partie de
+poker à haut risque au Casino Royale. La très belle Vesper, attachée au Trésor,
+l'accompagne afin de veiller à ce que l'agent 007 prenne soin de l'argent du
+gouvernement britannique qui lui sert de mise, mais rien ne va se passer comme
+prévu. Alors que Bond et Vesper s'efforcent d'échapper aux tentatives
+d'assassinat du Chiffre et de ses hommes, d'autres sentiments surgissent entre
+eux, ce qui ne fera que les rendre plus vulnérables...

@@ -1,0 +1,164 @@
+2019-03-09 15:12:58,182 - TMDB_fetcher.py - INFO - 2019-03-09 15:12:58.182174 - TMDB_fetcher.py - 1.0 - by C.Mineau
+2019-03-09 15:12:58,182 - TMDB_fetcher.py - INFO - 
+
+--------------------------------------------------------------------------------
+D:\Divx\TV\Baby - 2015.mpg ==> Titre='Baby' année='2015'
+2019-03-09 15:12:58,182 - TMDB_fetcher.py - INFO - La fiche existe déjà pour le film  : 'D:\Divx\TV\Baby - 2015.mpg'
+2019-03-09 15:12:58,182 - TMDB_fetcher.py - INFO - 
+
+--------------------------------------------------------------------------------
+D:\Divx\TV\La Grande vadrouille - 1966.mpg ==> Titre='La Grande vadrouille' année='1966'
+2019-03-09 15:12:58,182 - TMDB_fetcher.py - INFO - La fiche existe déjà pour le film  : 'D:\Divx\TV\La Grande vadrouille - 1966.mpg'
+2019-03-09 15:12:58,182 - TMDB_fetcher.py - INFO - 
+
+--------------------------------------------------------------------------------
+D:\Divx\TV\La Machine à explorer le temps - 2002.avi ==> Titre='La Machine à explorer le temps' année='2002'
+2019-03-09 15:12:58,182 - TMDB_fetcher.py - INFO - La fiche existe déjà pour le film  : 'D:\Divx\TV\La Machine à explorer le temps - 2002.avi'
+2019-03-09 15:12:58,182 - TMDB_fetcher.py - INFO - 
+
+--------------------------------------------------------------------------------
+D:\Divx\TV\Marie-Antoinette - 2006.mp4 ==> Titre='Marie-Antoinette' année='2006'
+2019-03-09 15:12:58,182 - TMDB_fetcher.py - INFO - La fiche existe déjà pour le film  : 'D:\Divx\TV\Marie-Antoinette - 2006.mp4'
+2019-03-09 15:12:58,182 - TMDB_fetcher.py - INFO - 
+
+--------------------------------------------------------------------------------
+D:\Divx\TV\Dossier 1\A History of Violence - 2005.mp4 ==> Titre='A History of Violence' année='2005'
+2019-03-09 15:12:58,182 - TMDB_fetcher.py - INFO - La fiche existe déjà pour le film  : 'D:\Divx\TV\Dossier 1\A History of Violence - 2005.mp4'
+2019-03-09 15:12:58,182 - TMDB_fetcher.py - INFO - 
+
+--------------------------------------------------------------------------------
+D:\Divx\TV\Dossier 1\Casino Royale - 2006.mp4 ==> Titre='Casino Royale' année='2006'
+2019-03-09 15:12:58,182 - TMDB_fetcher.py - INFO - La fiche existe déjà pour le film  : 'D:\Divx\TV\Dossier 1\Casino Royale - 2006.mp4'
+2019-03-09 15:12:58,197 - TMDB_fetcher.py - INFO - 
+
+--------------------------------------------------------------------------------
+D:\Divx\TV\Dossier 1\L'insoutenable légèreté de l'être - 1988.avi ==> Titre='L'insoutenable légèreté de l'être' année='1988'
+2019-03-09 15:12:58,197 - TMDB_fetcher.py - INFO - La fiche existe déjà pour le film  : 'D:\Divx\TV\Dossier 1\L'insoutenable légèreté de l'être - 1988.avi'
+2019-03-09 15:12:58,197 - TMDB_fetcher.py - INFO - 
+
+--------------------------------------------------------------------------------
+D:\Divx\TV\Dossier 1\Le Violon rouge - 1998.avi ==> Titre='Le Violon rouge' année='1998'
+2019-03-09 15:12:58,197 - TMDB_fetcher.py - INFO - La fiche existe déjà pour le film  : 'D:\Divx\TV\Dossier 1\Le Violon rouge - 1998.avi'
+2019-03-09 15:12:58,197 - TMDB_fetcher.py - INFO - 
+
+--------------------------------------------------------------------------------
+D:\Divx\TV\Dossier 1\truc.avi ==> Titre='truc' année='None'
+2019-03-09 15:12:59,131 - TMDB_fetcher.py - INFO - TMDB a retourné 80 possibilités : ['Le truc du Brésilien-1932-12-09', 'La vie sans truc-2013-09-25', 'Hallucinations pharmaceutiques ou Le truc de potard-1908-01-01', 'Kung Fu Panda 3-2016-01-23', 'Trucker-2008-04-24', "Les camions de l'enfer-1997-01-01", '大闹天竺-2017-01-27', 'Monster Cars-2016-12-26', 'Space Truckers-1996-03-01', 'Monster Truck-2019-03-12', 'Truck Turner-1974-04-19', 'Martin poids lourd-2010-07-30', 'The Ice Cream Truck-2017-08-18', 'Banjara: The truck driver-2018-12-07', 'Truce-2005-01-01', 'Truckers-1992-05-01', 'Truckfighters-2011-11-15', 'El último truco-2008-11-20', 'A Temporary Truce-1912-06-10', 'Truck Stop Women-1974-05-15', 'Truck Busters-1943-01-28', 'Manjuben Truck Driver-2002-01-01', 'La Trêve de Noël-2015-12-12', 'Já, truchlivý Bůh-1969-10-17', "Truckin' Havoc-2002-06-12", "Truckin' Man-1975-05-01", "Noah's Truck-2017-09-15", 'Le Truand Sort De Sa Planque-1976-08-27', 'Les cent trucs-1906-08-28', 'Paja i Jare-1973-07-26', 'Twenty Trucks-2004-05-15', 'Truck Tunes-2007-10-17', 'Las truchas-1978-02-01', 'Truck Wars-2018-07-10', 'Senza trucco-2011-01-01', 'Truck Song-1988-10-18', 'Truck Farm-2011-01-01', 'The Truck-2013-11-12', 'Kamion-2018-02-03', 'The Truck Farmer-1954-01-01', "Grateful Dead: Truckin'-", 'Le Camion de mon Père-2013-02-01', 'Une trêve mouvementée-1948-07-17', 'Trucker and the Fox-2013-10-13', "Truckin' Buddy McCoy-1984-01-01", 'Le Convoyeur-2004-04-14', 'Flatbed Annie & Sweetie Pie: Lady Truckers-1979-02-10', 'La Banda Del Trucido-1977-10-01', 'Totally Trucks Metal Monsters-2010-07-14', 'Totally Trucks Garbage Monsters-', 'Totally Trucks Dirt Monsters-', 'El truco del manco-2008-11-07', 'Totally Trucks Fire Monsters-2010-01-01', 'Truck Tunes 3-2015-11-03', 'The Runaway Truck-1968-01-01', 'El gran truco-1991-06-12', 'All About Trucks & All About Monster Trucks-2007-01-01', 'The Little Red Truck-2008-02-16', 'Truck Tunes 4-2016-11-17', 'A Truckload of Trouble-1949-10-24', 'Space Trucker Bruce-2014-03-01', 'A Truckload of Trouble-1949-10-24', 'Trucks Gone Wild 18-2014-11-18', 'Truck Tunes 2-2014-10-27', "Waupun Truck N' Show 2012 Truck Show-2012-01-01", 'All About Trucks & All About Monster Trucks-2007-01-01', 'The Little Red Truck-2008-02-16', 'Truck Tunes 4-2016-11-17', 'The Truck-2008-09-25', 'Lots and Lots of Trucks - Mighty Tough Trucks-', "Lots and Lots of Trucks: Hard Workin' Trucks-2008-01-01", 'Langturschauffør-1981-09-07', 'Rusted Waters & Busted Trucks-2017-08-28', 'Big Truck and Sister Clare-1972-01-01', 'Alex and Her Arse Truck-', 'Jean Cocteau et sus trucages-2008-12-31', 'Men Who Sleep in Trucks-2016-07-19', 'Real Wheels: Mega Truck Adventures-2003-01-01', 'Totally Trucks Fire Monsters II-2012-09-30', "L'homme aux cent trucs-1901-01-01"]
+2019-03-09 15:12:59,131 - TMDB_fetcher.py - DEBUG - Liste de choix proposée pour le film 'truc'
+2019-03-09 15:12:59,131 - TMDB_fetcher.py - DEBUG - 	0 : Le truc du Brésilien - 1932-12-09 - Le truc du Brésilien - '
+2019-03-09 15:12:59,144 - TMDB_fetcher.py - DEBUG - 	1 : La vie sans truc - 2013-09-25 - La vie sans truc - '
+2019-03-09 15:12:59,144 - TMDB_fetcher.py - DEBUG - 	2 : Hallucinations pharmaceutiques ou Le truc de potard - 1908-01-01 - Hallucinations pharmaceutiques ou Le truc de potard - '
+2019-03-09 15:12:59,144 - TMDB_fetcher.py - DEBUG - 	3 : Kung Fu Panda 3 - 2016-01-23 - Kung Fu Panda 3 - Po avait toujours cru son père panda disparu, mais le voilà qui réapparait ! Enf'
+2019-03-09 15:12:59,144 - TMDB_fetcher.py - DEBUG - 	4 : Trucker - 2008-04-24 - Trucker - '
+2019-03-09 15:12:59,144 - TMDB_fetcher.py - DEBUG - 	5 : Les camions de l'enfer - 1997-01-01 - Trucks - Peu après la mort accidentelle de sa femme, Ray emménage avec son fils dans la p'
+2019-03-09 15:12:59,145 - TMDB_fetcher.py - DEBUG - 	6 : 大闹天竺 - 2017-01-27 - 大闹天竺 - '
+2019-03-09 15:12:59,145 - TMDB_fetcher.py - DEBUG - 	7 : Monster Cars - 2016-12-26 - Monster Trucks - Pour échapper à la vie trop tranquille de sa ville natale, Tripp, un lycéen, con'
+2019-03-09 15:12:59,145 - TMDB_fetcher.py - DEBUG - 	8 : Space Truckers - 1996-03-01 - Space Truckers - Au XXIIe siècle, l'Homme a conquis une grande partie du système solaire et les t'
+2019-03-09 15:12:59,145 - TMDB_fetcher.py - DEBUG - 	9 : Monster Truck - 2019-03-12 - Monster Truck - '
+2019-03-09 15:12:59,145 - TMDB_fetcher.py - DEBUG - 	10 : Truck Turner - 1974-04-19 - Truck Turner - Truck, un chasseur de primes, cause la mort du maquereau qu'il devait filer. Sa '
+2019-03-09 15:12:59,145 - TMDB_fetcher.py - DEBUG - 	11 : Martin poids lourd - 2010-07-30 - Monster Truck Mater - Flash voit passer un monster truck, ces gros 4x4 avec des roues géantes. Martin '
+2019-03-09 15:12:59,145 - TMDB_fetcher.py - DEBUG - 	12 : The Ice Cream Truck - 2017-08-18 - The Ice Cream Truck - Quand Mary retourne vivre en banlieue, en attendant l'arrivée de sa famille, c'e'
+2019-03-09 15:12:59,145 - TMDB_fetcher.py - DEBUG - 	13 : Banjara: The truck driver - 2018-12-07 - Banjara: The truck driver - '
+2019-03-09 15:12:59,145 - TMDB_fetcher.py - DEBUG - 	14 : Truce - 2005-01-01 - Truce - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	15 : Truckers - 1992-05-01 - Truckers - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	16 : Truckfighters - 2011-11-15 - Truckfighters - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	17 : El último truco - 2008-11-20 - El último truco - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	18 : A Temporary Truce - 1912-06-10 - A Temporary Truce - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	19 : Truck Stop Women - 1974-05-15 - Truck Stop Women - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	20 : Truck Busters - 1943-01-28 - Truck Busters - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	21 : Manjuben Truck Driver - 2002-01-01 - Manjuben Truck Driver - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	22 : La Trêve de Noël - 2015-12-12 - A Christmas Truce - La veille de Noël, le soldat américain John Myers et ses hommes se retrouvent pi'
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	23 : Já, truchlivý Bůh - 1969-10-17 - Já, truchlivý Bůh - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	24 : Truckin' Havoc - 2002-06-12 - Truckin' Havoc - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	25 : Truckin' Man - 1975-05-01 - Truckin' Man - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	26 : Noah's Truck - 2017-09-15 - Noah's Truck - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	27 : Le Truand Sort De Sa Planque - 1976-08-27 - Il trucido e lo sbirro - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	28 : Les cent trucs - 1906-08-28 - Les cent trucs - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	29 : Paja i Jare - 1973-07-26 - Paja i Jare - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	30 : Twenty Trucks - 2004-05-15 - Twenty Trucks - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	31 : Truck Tunes - 2007-10-17 - Truck Tunes - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	32 : Las truchas - 1978-02-01 - Las truchas - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	33 : Truck Wars - 2018-07-10 - Truck Wars - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	34 : Senza trucco - 2011-01-01 - Senza trucco - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	35 : Truck Song - 1988-10-18 - Truck Song - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	36 : Truck Farm - 2011-01-01 - Truck Farm - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	37 : The Truck - 2013-11-12 - The Truck - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	38 : Kamion - 2018-02-03 - Kamion - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	39 : The Truck Farmer - 1954-01-01 - The Truck Farmer - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	40 : Grateful Dead: Truckin' -  - Grateful Dead: Truckin' - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	41 : Le Camion de mon Père - 2013-02-01 - My Father's Truck - Mai Vy, 10 ans, ne veut pas aller à l'école. Elle accompagne son père dans sa jo'
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	42 : Une trêve mouvementée - 1948-07-17 - The Truce Hurts - Butch convainc Tom et Jerry qu'il n'y a aucune raison de se battre et qu'ils doi'
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	43 : Trucker and the Fox - 2013-10-13 - Trucker and the Fox - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	44 : Truckin' Buddy McCoy - 1984-01-01 - Truckin' Buddy McCoy - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	45 : Le Convoyeur - 2004-04-14 - Le Convoyeur - Petite société de transport de fonds, la compagnie Vigilante est en pleine crise'
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	46 : Flatbed Annie & Sweetie Pie: Lady Truckers - 1979-02-10 - Flatbed Annie & Sweetie Pie: Lady Truckers - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	47 : La Banda Del Trucido - 1977-10-01 - La Banda Del Trucido - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	48 : Totally Trucks Metal Monsters - 2010-07-14 - Totally Trucks Metal Monsters - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	49 : Totally Trucks Garbage Monsters -  - Totally Trucks Garbage Monsters - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	50 : Totally Trucks Dirt Monsters -  - Totally Trucks Dirt Monsters - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	51 : El truco del manco - 2008-11-07 - El truco del manco - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	52 : Totally Trucks Fire Monsters - 2010-01-01 - Totally Trucks Fire Monsters - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	53 : Truck Tunes 3 - 2015-11-03 - Truck Tunes 3 - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	54 : The Runaway Truck - 1968-01-01 - The Runaway Truck - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	55 : El gran truco - 1991-06-12 - El gran truco - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	56 : All About Trucks & All About Monster Trucks - 2007-01-01 - All About Trucks & All About Monster Trucks - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	57 : The Little Red Truck - 2008-02-16 - The Little Red Truck - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	58 : Truck Tunes 4 - 2016-11-17 - Truck Tunes 4 - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	59 : A Truckload of Trouble - 1949-10-24 - A Truckload of Trouble - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	60 : Space Trucker Bruce - 2014-03-01 - Space Trucker Bruce - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	61 : A Truckload of Trouble - 1949-10-24 - A Truckload of Trouble - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	62 : Trucks Gone Wild 18 - 2014-11-18 - Trucks Gone Wild 18 - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	63 : Truck Tunes 2 - 2014-10-27 - Truck Tunes 2 - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	64 : Waupun Truck N' Show 2012 Truck Show - 2012-01-01 - Waupun Truck N' Show 2012 Truck Show - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	65 : All About Trucks & All About Monster Trucks - 2007-01-01 - All About Trucks & All About Monster Trucks - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	66 : The Little Red Truck - 2008-02-16 - The Little Red Truck - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	67 : Truck Tunes 4 - 2016-11-17 - Truck Tunes 4 - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	68 : The Truck - 2008-09-25 - 트럭 - Chul-min est conducteur de camion. Lorsqu'il apprend que sa fille est atteinte d'
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	69 : Lots and Lots of Trucks - Mighty Tough Trucks -  - Lots and Lots of Trucks - Mighty Tough Trucks - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	70 : Lots and Lots of Trucks: Hard Workin' Trucks - 2008-01-01 - Lots and Lots of Trucks: Hard Workin' Trucks - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	71 : Langturschauffør - 1981-09-07 - Langturschauffør - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	72 : Rusted Waters & Busted Trucks - 2017-08-28 - Rusted Waters & Busted Trucks - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	73 : Big Truck and Sister Clare - 1972-01-01 - Big Truck and Sister Clare - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	74 : Alex and Her Arse Truck -  - Alex and Her Arse Truck - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	75 : Jean Cocteau et sus trucages - 2008-12-31 - Jean Cocteau et sus trucages - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	76 : Men Who Sleep in Trucks - 2016-07-19 - Men Who Sleep in Trucks - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	77 : Real Wheels: Mega Truck Adventures - 2003-01-01 - Real Wheels: Mega Truck Adventures - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	78 : Totally Trucks Fire Monsters II - 2012-09-30 - Totally Trucks Fire Monsters II - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	79 : L'homme aux cent trucs - 1901-01-01 - L'homme aux cent trucs - '
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	80 : Autre titre'
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	81 : Passer'
+2019-03-09 15:12:59,146 - TMDB_fetcher.py - DEBUG - 	82 : Ignorer et ne plus demander à l'avenir.'
+2019-03-09 15:13:04,546 - TMDB_fetcher.py - INFO - Choix retenu '82'
+2019-03-09 15:13:04,546 - TMDB_fetcher.py - INFO - Renommage 'D:\Divx\TV\Dossier 1\truc.avi' => 'D:\Divx\TV\Dossier 1\truc_NOTMDB.avi'
+2019-03-09 15:13:04,546 - TMDB_fetcher.py - INFO - 
+
+--------------------------------------------------------------------------------
+D:\Divx\TV\Dossier 1\truc_NOTMDB.avi ==> Titre='truc NOTMDB' année='None'
+2019-03-09 15:13:04,546 - TMDB_fetcher.py - INFO - None
+2019-03-09 15:13:04,546 - TMDB_fetcher.py - INFO - Aucune info pour le film : truc NOTMDB
+2019-03-09 15:13:04,546 - TMDB_fetcher.py - INFO - 
+
+--------------------------------------------------------------------------------
+D:\Divx\TV\Dossier 1\Dossier 2\Diva - 1981.avi ==> Titre='Diva' année='1981'
+2019-03-09 15:13:04,546 - TMDB_fetcher.py - INFO - La fiche existe déjà pour le film  : 'D:\Divx\TV\Dossier 1\Dossier 2\Diva - 1981.avi'
+2019-03-09 15:13:04,546 - TMDB_fetcher.py - INFO - 
+
+--------------------------------------------------------------------------------
+D:\Divx\TV\Dossier 1\Dossier 2\Gran Torino - 2008.avi ==> Titre='Gran Torino' année='2008'
+2019-03-09 15:13:04,546 - TMDB_fetcher.py - INFO - La fiche existe déjà pour le film  : 'D:\Divx\TV\Dossier 1\Dossier 2\Gran Torino - 2008.avi'
+2019-03-09 15:13:04,546 - TMDB_fetcher.py - INFO - 
+
+--------------------------------------------------------------------------------
+D:\Divx\TV\Dossier 1\Dossier 2\La soupe aux choux - 1981.mp4 ==> Titre='La soupe aux choux' année='1981'
+2019-03-09 15:13:04,546 - TMDB_fetcher.py - INFO - La fiche existe déjà pour le film  : 'D:\Divx\TV\Dossier 1\Dossier 2\La soupe aux choux - 1981.mp4'
+2019-03-09 15:13:04,546 - TMDB_fetcher.py - INFO - 
+
+--------------------------------------------------------------------------------
+D:\Divx\TV\Dossier 1\Dossier 2\Les Misérables - 1917.mp4 ==> Titre='Les Misérables' année='1917'
+2019-03-09 15:13:04,546 - TMDB_fetcher.py - INFO - La fiche existe déjà pour le film  : 'D:\Divx\TV\Dossier 1\Dossier 2\Les Misérables - 1917.mp4'
+2019-03-09 15:13:04,546 - TMDB_fetcher.py - INFO - 
+
+
+2019-03-09 15:13:04,561 - TMDB_fetcher.py - DEBUG - Fichier créé : 'D:\Divx\TV\___CATALOGUE_FILMS.TXT'
+2019-03-09 15:13:04,562 - TMDB_fetcher.py - DEBUG - Fichier créé : 'D:\Divx\TV\___FICHES_FILMS.TXT'
+2019-03-09 15:13:04,563 - TMDB_fetcher.py - INFO - 2019-03-09 15:13:04.563880 - Fin de traitement TMDB_fetcher.py 

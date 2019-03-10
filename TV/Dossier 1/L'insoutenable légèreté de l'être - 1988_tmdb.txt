@@ -1,0 +1,15 @@
+Titre : L'insoutenable légèreté de l'être
+Chemin : D:\Divx\TV\Dossier 1\L'insoutenable légèreté de l'être - 1988.avi
+Année : 1988
+Acteurs : ['Daniel Day-Lewis', 'Juliette Binoche', 'Lena Olin', 'Derek de Lint', 'Stellan Skarsgård', 'Erland Josephson', 'Pavel Landovský', 'Donald Moffat', 'Daniel Olbrychski', 'Tomek Bork', 'Bruce Myers', 'Pavel Slabý', 'Pascale Kalensky', 'Jacques Ciron', 'Anne Lonnberg', 'László Szabó', 'Vladimír Valenta', 'Clovis Cornillac', 'Consuelo De Haviland', 'Leon Lissek']
+Genre : ['Comédie', 'Romance']
+Pays : ['United States of America']
+Affiche : http://image.tmdb.org/t/p/w400/ygQlzCnSBbsFX5IJgZHjehO9axM.jpg
+Durée (mn) : 171
+Metteur en scène : ['Philip Kaufman']
+Auteur : ['Jean-Claude Carrière', 'Philip Kaufman']
+Musique : ['Mark Adler']
+Synopsis : Le Printemps de Prague vu par un jeune chirurgien passionné par son métier et
+les femmes et une jeune serveuse devenue photographe qu'il finit par épouser. La
+beauté du célèbre « Printemps », l'arrivée des Soviétiques, l'exil à Genève, le
+retour en Tchécoslovaquie...

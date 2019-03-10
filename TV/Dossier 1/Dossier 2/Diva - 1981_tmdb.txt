@@ -1,0 +1,14 @@
+Titre : Diva
+Chemin : D:\Divx\TV\Dossier 1\Dossier 2\Diva - 1981.avi
+Année : 1981
+Acteurs : ['Frédéric Andréi', 'Richard Bohringer', 'Roland Bertin', 'Wilhelmenia Fernandez', 'Thuy An Luu', 'Chantal Deruaz', 'Anny Romand', 'Dominique Pinon', 'Brigitte Lahaie', 'Gérard Darmon', 'Jacques Fabbri', 'Patrick Floersheim', 'Jean-Jacques Moreau']
+Genre : ['Action', 'Drame', 'Musique', 'Thriller']
+Pays : ['France']
+Affiche : http://image.tmdb.org/t/p/w400/3Got5xWBJWj8K4iVn8gcjDpQ5Mf.jpg
+Durée (mn) : 117
+Metteur en scène : ['Jean-Jacques Beineix']
+Auteur : ['Jean Van Hamme', 'Jean-Jacques Beineix']
+Musique : ['Vladimir Cosma', 'Jacqueline Porel', 'Catherine Leygonie']
+Synopsis : Un jeune postier amoureux du bel canto réalise un enregistrement pirate d'un
+concert donné par une diva. Sa passion et un hasard malencontreux vont provoquer
+une chasse à l'homme dont il est la proie.

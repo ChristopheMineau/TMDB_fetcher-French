@@ -1,0 +1,263 @@
+Fichier édité le 2019-03-09 15:13:04.562881 par TMDB_fetcher.py version 1.0.
+Copyright C.Mineau - TMDB_fetcher.py est disponible ici : https://github.com/ChristopheMineau/TMDB_fetcher-French.
+La base contient à cette date 13 films.
+
+----------------------------------------
+Titre : Baby
+Chemin : D:\Divx\TV\Baby - 2015.mpg
+Année : 2015
+Acteurs : ['Akshay Kumar', 'Taapsee Pannu', 'Rana Daggubati', 'Danny Denzongpa', 'Anupam Kher', 'Madhurima Tuli', 'Kay Kay Menon', 'Sushant Singh', 'Mikaal Zulfikaar']
+Genre : ['Action', 'Thriller']
+Pays : ['India']
+Affiche : http://image.tmdb.org/t/p/w400/P4kay8niUQz9f14yhTSN7MpSrS.jpg
+Durée (mn) : 160
+Metteur en scène : ['Neeraj Pandey']
+Auteur : []
+Musique : ['M.M. Keeravaani', 'Meet Bros Anjjan']
+Synopsis : 
+----------------------------------------
+
+
+----------------------------------------
+Titre : La Grande vadrouille
+Chemin : D:\Divx\TV\La Grande vadrouille - 1966.mpg
+Année : 1966
+Acteurs : ['Bourvil', 'Louis de Funès', 'Terry-Thomas', 'Claudio Brook', 'Mike Marshall', 'Marie Dubois', 'Pierre Bertin', 'Andréa Parisy', 'Mary Marquet', 'Benno Sterzenbach', 'Paul Préboist', 'Henri Génès', 'Colette Brosset', 'Catherine Marshall', 'Rudy Lenoir', 'Michel Modo', 'Jacques Bodoin', 'Gabriel Gobin', 'Clément Michu', 'Guy Grosso', 'Jean Droze', 'Paul Mercey', 'Jean Minisini', 'Georges Atlas', 'Danièle Thompson', 'Rémy Julienne', 'Mag-Avril', 'Pierre Roussel', 'Sieghardt Rupp', 'Helmuth Schneider', 'Hans Meyer', 'Christian Brocard', 'Fred Fischer', 'Claude Salez', 'Percival Russel', 'Raymond Pierson', 'Guy Bonnafoux', 'Tony Rödel', 'Pierre Bastien', 'Peter Jacob', 'Noël Darzal', 'Jacques Sablon', 'Konrad Von Bork', 'Jerry Brouer', 'Jean-Pierre Posier', 'George Birt', 'Nicolas Bang', 'Alice Field', 'P. Stutz', 'Jacques Beyster', 'H. Faupel', 'Charly Constant', 'Sacha Tarride', 'Joachim Westhoff', 'Anne Berger', 'Horst Miessner', 'Reinhard Kolldehoff']
+Genre : ['Comédie', 'Guerre']
+Pays : ['France', 'United Kingdom']
+Affiche : http://image.tmdb.org/t/p/w400/kXBawoZ7QsNV7rt4IZEks3dYxOU.jpg
+Durée (mn) : 132
+Metteur en scène : ['Gérard Oury']
+Auteur : ['Gérard Oury', 'Marcel Jullian', 'Danièle Thompson']
+Musique : ['Georges Auric']
+Synopsis : En 1942, un avion anglais est abattu par les Allemands au-dessus de Paris. Les
+trois pilotes sautent en parachute et atterrissent dans différents endroits de
+la capitale. Ils sont aidés par deux civils français, un chef d'orchestre et un
+peintre en bâtiment qui acceptent de les mener en zone libre; ils deviennent
+ainsi, malgré eux, acteurs de la Résistance.
+----------------------------------------
+
+
+----------------------------------------
+Titre : La Machine à explorer le temps
+Chemin : D:\Divx\TV\La Machine à explorer le temps - 2002.avi
+Année : 2002
+Acteurs : ['Guy Pearce', 'Mark Addy', 'Phyllida Law', 'Sienna Guillory', 'Laura Kirk', 'Josh Stamberg', 'John W. Momrow', 'Max Baker', 'Jeffrey M. Meyer', 'Jeremy Irons', 'Alan Young', 'Myndy Crist', 'Connie Ray', 'Orlando Jones', 'Lennie Loftin', 'Thomas Corey Robinson', 'Samantha Mumba', 'Omero Mumba', 'Yancey Arias', 'Richard Cetrone', 'Edward Conna', 'Chris Sayour', 'Jeremy Fitzgerald', 'Dorian Kingi', 'Doug Jones', 'Chona Jason', 'Alex Madison']
+Genre : ['Science-Fiction', 'Aventure', 'Action']
+Pays : ['United States of America']
+Affiche : http://image.tmdb.org/t/p/w400/oLqynsjlEKojWgMHv4gOePn5gYI.jpg
+Durée (mn) : 95
+Metteur en scène : ['Simon Wells']
+Auteur : ['John Logan']
+Musique : ['Klaus Badelt']
+Synopsis : À New York, en 1899, Alexander Hartdegen, un brillant physicien de l'Université
+de Columbia, fait la connaissance d'Emma, une charmante demoiselle dont il tombe
+follement amoureux. Un soir, dans Central Park, il trouve le courage de lui
+déclarer sa flamme et de lui offrir une bague de fiançailles. Un voleur tente
+alors de dérober le fameux bijou, mais Emma ne se laisse pas faire. Un coup de
+feu retentit, la malheureuse s'effondre et meurt dans les bras d'Alexander.
+Refusant cette triste fatalité, celui-ci consacre tout son savoir et toute son
+énergie à construire une machine à explorer le temps afin d'altérer le cours des
+événements et ainsi sauver la vie de sa bien-aimée. Alexander embarque à l'insu
+de tous pour ce voyage de la dernière chance et se voit bientôt propulsé dans le
+XXIe siècle.
+----------------------------------------
+
+
+----------------------------------------
+Titre : Marie-Antoinette
+Chemin : D:\Divx\TV\Marie-Antoinette - 2006.mp4
+Année : 2006
+Acteurs : ['Kirsten Dunst', 'Jason Schwartzman', 'Judy Davis', 'Rip Torn', 'Rose Byrne', 'Asia Argento', 'Molly Shannon', 'Shirley Henderson', 'Danny Huston', 'Marianne Faithfull', 'Mary Nighy', 'Sebastian Armesto', 'Jamie Dornan', 'Aurore Clément', 'Guillaume Gallienne', 'James Lance', 'Al Weaver', 'Tom Hardy', 'Steve Coogan', 'Jean-Christophe Bouvet', 'Florrie Betts', 'Alain Doutey']
+Genre : ['Drame', 'Histoire']
+Pays : ['France', 'United States of America', 'Japan']
+Affiche : http://image.tmdb.org/t/p/w400/uLi383ZVk1DGH3yPdNSGLzQAERp.jpg
+Durée (mn) : 123
+Metteur en scène : ['Sofia Coppola']
+Auteur : ['Sofia Coppola']
+Musique : ["Dustin O'Halloran"]
+Synopsis : Évocation de la vie de la reine d'origine autrichienne, épouse mal-aimée de
+Louis XVI, guillotinée en 1793. Au sortir de l'adolescence, une jeune fille
+découvre un monde hostile et codifié, un univers frivole où chacun observe et
+juge l'autre sans aménité. Mariée à un homme maladroit qui la délaisse, elle est
+rapidement lassée par les devoirs de représentation qu'on lui impose. Elle
+s'évade dans l'ivresse de la fête et les plaisirs des sens pour réinventer un
+monde à elle. Y a-t-il un prix à payer à chercher le bonheur que certains vous
+refusent ?
+----------------------------------------
+
+
+----------------------------------------
+Titre : A History of Violence
+Chemin : D:\Divx\TV\Dossier 1\A History of Violence - 2005.mp4
+Année : 2005
+Acteurs : ['Viggo Mortensen', 'Maria Bello', 'Heidi Hayes', 'Ashton Holmes', 'William Hurt', 'Ed Harris', 'Peter MacNeill', 'Stephen McHattie', 'Greg Bryk', 'Kyle Schmid', 'Sumela Kay', 'Gerry Quigley', 'Deborah Drakeford', 'Bill MacDonald', 'Aidan Devine', 'Morgan Kelly', 'Ian Matthews', 'Jason Barbeck', 'Bruce Beaton', 'Neven Pajkic']
+Genre : ['Drame', 'Thriller', 'Crime']
+Pays : ['United States of America', 'Canada', 'Germany']
+Affiche : http://image.tmdb.org/t/p/w400/keHREQ9jRiHp7ja1SM8xmDCo6vI.jpg
+Durée (mn) : 95
+Metteur en scène : ['David Cronenberg']
+Auteur : ['Josh Olson']
+Musique : ['Howard Shore', 'Karen Elliott', 'Jennifer Dunnington']
+Synopsis : Tom Stall, un père de famille à la vie paisiblement tranquille, abat dans un
+réflexe de légitime défense son agresseur dans un restaurant. Il devient alors
+un personnage médiatique, dont l'existence est dorénavant connue du grand
+public...
+----------------------------------------
+
+
+----------------------------------------
+Titre : Casino Royale
+Chemin : D:\Divx\TV\Dossier 1\Casino Royale - 2006.mp4
+Année : 2006
+Acteurs : ['Daniel Craig', 'Eva Green', 'Mads Mikkelsen', 'Judi Dench', 'Jeffrey Wright', 'Giancarlo Giannini', 'Caterina Murino', 'Simon Abkarian', 'Isaach De Bankolé', 'Jesper Christensen', 'Ivana Miličević', 'Tobias Menzies', 'Claudio Santamaria', 'Sebastien Foucan', 'Malcolm Sinclair', 'Richard Sammel', 'Ludger Pistor', 'Joseph Millson', 'Darwin Shaw', 'Clemens Schick', 'Emmanuel Avena', 'Tom Chadbon', 'Ade', 'Urbano Barberini', 'Tsai Chin', 'Lazar Ristovski', 'Veruschka von Lehndorff', 'Charlie Levi Leroy', 'Tom So', 'Andreas Daniel', 'Carlos Leal', 'Christina Cole', 'Jürgen Tarrach', 'John Gold', 'Jerry Inzerillo', 'Diane Hartford', 'Jessica Miller', 'Leo Stransky', 'Paul Bhattacharjee', 'Crispin Bonham-Carter', 'Simon Cox', 'Rebecca Gethings', 'Peter Notley', 'John Chancer', 'Peter Brooke', 'Jason Durran', 'Robert Jezek', 'Robert G. Slade', 'Félicité Du Jeu', 'Michaela Ochotská', 'Michael Offei', 'Makhoudia Diaw', 'Michael G. Wilson', 'Martina Duravolá', 'Marcela Martincáková', 'Vladimir Kulhavy', 'Valentine Nonyela', 'Dusan Pelech', 'Phil Meheux', 'Alessandra Ambrosio', 'Veronika Hladikova', 'Regina Gabajová', 'Olutunji Ebun-Cole', 'Martin Učík', 'Vlastina Svátková', 'Miroslav Šimůnek', "Ivan G'Vera", 'Jirí Lenc', 'Jaroslav Jankovsky', 'Lasco Atkins', 'Richard Branson', 'Martin Campbell', 'Tara Cardinal', 'Ben Cooke', 'Nigel Pilkington', 'Simona Roman', 'Victor Sobchak', 'Valarie Trapp', 'Greg Bennett']
+Genre : ['Aventure', 'Action', 'Thriller']
+Pays : ['Italy', 'United Kingdom', 'United States of America', 'Czech Republic', 'Germany']
+Affiche : http://image.tmdb.org/t/p/w400/chKDZOnowXuO5aRvIVrQfEz7CjC.jpg
+Durée (mn) : 138
+Metteur en scène : ['Martin Campbell']
+Auteur : ['Neal Purvis', 'Robert Wade', 'Paul Haggis']
+Musique : ['David Arnold', 'Dominic Gibbs', 'Robin Whittaker']
+Synopsis : Pour sa première mission, James Bond affronte le tout-puissant banquier privé du
+terrorisme international, Le Chiffre. Pour achever de le ruiner et démanteler le
+plus grand réseau criminel qui soit, Bond doit le battre lors d'une partie de
+poker à haut risque au Casino Royale. La très belle Vesper, attachée au Trésor,
+l'accompagne afin de veiller à ce que l'agent 007 prenne soin de l'argent du
+gouvernement britannique qui lui sert de mise, mais rien ne va se passer comme
+prévu. Alors que Bond et Vesper s'efforcent d'échapper aux tentatives
+d'assassinat du Chiffre et de ses hommes, d'autres sentiments surgissent entre
+eux, ce qui ne fera que les rendre plus vulnérables...
+----------------------------------------
+
+
+----------------------------------------
+Titre : L'insoutenable légèreté de l'être
+Chemin : D:\Divx\TV\Dossier 1\L'insoutenable légèreté de l'être - 1988.avi
+Année : 1988
+Acteurs : ['Daniel Day-Lewis', 'Juliette Binoche', 'Lena Olin', 'Derek de Lint', 'Stellan Skarsgård', 'Erland Josephson', 'Pavel Landovský', 'Donald Moffat', 'Daniel Olbrychski', 'Tomek Bork', 'Bruce Myers', 'Pavel Slabý', 'Pascale Kalensky', 'Jacques Ciron', 'Anne Lonnberg', 'László Szabó', 'Vladimír Valenta', 'Clovis Cornillac', 'Consuelo De Haviland', 'Leon Lissek']
+Genre : ['Comédie', 'Romance']
+Pays : ['United States of America']
+Affiche : http://image.tmdb.org/t/p/w400/ygQlzCnSBbsFX5IJgZHjehO9axM.jpg
+Durée (mn) : 171
+Metteur en scène : ['Philip Kaufman']
+Auteur : ['Jean-Claude Carrière', 'Philip Kaufman']
+Musique : ['Mark Adler']
+Synopsis : Le Printemps de Prague vu par un jeune chirurgien passionné par son métier et
+les femmes et une jeune serveuse devenue photographe qu'il finit par épouser. La
+beauté du célèbre « Printemps », l'arrivée des Soviétiques, l'exil à Genève, le
+retour en Tchécoslovaquie...
+----------------------------------------
+
+
+----------------------------------------
+Titre : Le Violon rouge
+Chemin : D:\Divx\TV\Dossier 1\Le Violon rouge - 1998.avi
+Année : 1998
+Acteurs : ['Carlo Cecchi', 'Irene Grazioli', 'Anita Laurenzi', 'Tommaso Puntelli', 'Samuele Amighetti', 'Jean-Luc Bideau', 'Aldo Brugnini', 'Christoph Koncz', 'Clotilde Mollet', 'Florentín Groll', 'Johannes Silberschneider', 'Rainer Egger', 'Paul Koeker', 'Wolfgang Böck', 'Josef Mairginter', 'Johan Gotsch', 'Geza Hosszu-Legocky', 'David Alberman', 'Arthur Denberg', 'Andrzej Matuszewiski', 'Jason Flemyng', 'Greta Scacchi', 'Eva Marie Bryer', 'Dimitri Andreas', 'David Gant', 'Sai-Kit Yung', 'Sylvia Chang', 'Zifeng Liu', 'Hong Tao', 'Xio Fei Han', 'Zheng Wei Tan', 'Zhi Qing Zhou', 'Zhi Qiao', 'Kun Qi Cao', 'Rei Yang', 'Lidou', 'Samuel L. Jackson', 'Colm Feore', 'Monique Mercure', 'Don McKellar', 'Ireneusz Bogajewicz', 'Julian Richings', 'Russell Yuen', 'Sandra Oh', 'Paula de Vasconcelos', 'Rémy Girard', 'Marie-Josée Gauthier', 'Dany Laferrière', 'Dorothée Berryman', 'David La Haye', 'Gregory Hlady', 'Herman Meckler', 'Sheena Macdonald', 'Jody Shapiro', 'James Bradford', 'Joshua Bell', 'Sylvia Stewart', 'Wang Xiaoshuai']
+Genre : ['Drame', 'Thriller', 'Mystère', 'Musique', 'Romance']
+Pays : ['Canada', 'Italy', 'United Kingdom']
+Affiche : http://image.tmdb.org/t/p/w400/e1YM8IYf04OJvFbVNntBMug7tQw.jpg
+Durée (mn) : 140
+Metteur en scène : ['François Girard']
+Auteur : []
+Musique : ['Matthias Gohl']
+Synopsis : Il y a 4 siècles, le luthier Bussotti perdit sa femme et son fils naissant. Fou
+de chagrin, il vernit avec le sang de la défunte le violon qu'il avait
+confectionné pour son futur enfant. Accompagné d'une étrange prophétie de
+passion, de génie et de mort, l'instrument bouleversera jusqu'à nos jours le
+destin de ses différents possesseurs...
+----------------------------------------
+
+
+----------------------------------------
+Chemin : D:\Divx\TV\Dossier 1\truc_NOTMDB.avi
+Aucune info sur TMDB.
+----------------------------------------
+
+
+----------------------------------------
+Titre : Diva
+Chemin : D:\Divx\TV\Dossier 1\Dossier 2\Diva - 1981.avi
+Année : 1981
+Acteurs : ['Frédéric Andréi', 'Richard Bohringer', 'Roland Bertin', 'Wilhelmenia Fernandez', 'Thuy An Luu', 'Chantal Deruaz', 'Anny Romand', 'Dominique Pinon', 'Brigitte Lahaie', 'Gérard Darmon', 'Jacques Fabbri', 'Patrick Floersheim', 'Jean-Jacques Moreau']
+Genre : ['Action', 'Drame', 'Musique', 'Thriller']
+Pays : ['France']
+Affiche : http://image.tmdb.org/t/p/w400/3Got5xWBJWj8K4iVn8gcjDpQ5Mf.jpg
+Durée (mn) : 117
+Metteur en scène : ['Jean-Jacques Beineix']
+Auteur : ['Jean Van Hamme', 'Jean-Jacques Beineix']
+Musique : ['Vladimir Cosma', 'Jacqueline Porel', 'Catherine Leygonie']
+Synopsis : Un jeune postier amoureux du bel canto réalise un enregistrement pirate d'un
+concert donné par une diva. Sa passion et un hasard malencontreux vont provoquer
+une chasse à l'homme dont il est la proie.
+----------------------------------------
+
+
+----------------------------------------
+Titre : Gran Torino
+Chemin : D:\Divx\TV\Dossier 1\Dossier 2\Gran Torino - 2008.avi
+Année : 2008
+Acteurs : ['Clint Eastwood', 'Christopher Carley', 'Bee Vang', 'Ahney Her', 'Brian Haley', 'Geraldine Hughes', 'Dreama Walker', 'Brian Howe', 'John Carroll Lynch', 'William Hill', 'Brooke Chia Thao', 'Chee Thao', 'Choua Kue', 'Scott Eastwood', 'Xia Soua Chang', 'Doua Moua', 'Sarah Neubauer', 'Lee Mong Vang', 'Nana Gbewonyo', 'John Anton', 'Austin Douglas Smith', 'Ramon Camacho', 'Rio Scafone', 'Thomas D. Mahard', 'Arthur Cartwright', 'Julia Ho', 'Elvis Thao', 'Clint Ward', 'Shelagh Conley', 'Jeffrey Feingold', 'William C. Fox', "Tony Stef'Ano", 'Carey Torrice', 'Sonny Vue', 'Greg Trzaskoma', 'John Johns', 'Davis Gloff', 'Conor Liam Callaghan', 'Michael E. Kurowski', 'Maykao K. Lytongpao', 'Carlos Guadarrama', 'Andrew Tamez-Hull', 'Antonio Mireles', 'Tru Hang', 'Marty Bufalini', 'My-Ishia Cason-Brown', 'Rochelle Winter', 'Claudia Rodgers', 'Darline Bucchare', 'Arnold Montey', 'Jeffrey Scott Basham']
+Genre : ['Drame']
+Pays : ['United States of America', 'Germany']
+Affiche : http://image.tmdb.org/t/p/w400/jpj2oT0GCJ9n7S5LRAG11hAhgCw.jpg
+Durée (mn) : 116
+Metteur en scène : ['Clint Eastwood']
+Auteur : ['Nick Schenk']
+Musique : ['Kyle Eastwood', 'Michael Stevens', 'Daniel J. Johnson', 'Chris McGeary']
+Synopsis : Walt Kowalski est un ancien de la guerre de Corée, un homme inflexible, amer et
+pétri de préjugés surannés. Après des années de travail à la chaîne, il vit
+replié sur lui-même, occupant ses journées à bricoler, traînasser et siroter des
+bières. Avant de mourir, sa femme exprima le vœu qu'il aille à confesse, mais
+Walt n'a rien à avouer, ni personne à qui parler. Hormis sa chienne Daisy, il ne
+fait confiance qu'à son M-1, toujours propre, toujours prêt à l'usage... Ses
+anciens voisins ont déménagé ou sont morts depuis longtemps. Son quartier est
+aujourd'hui peuplé d'immigrants asiatiques qu'il méprise, et Walt ressasse ses
+haines, innombrables - à l'encontre de ses voisins, des ados Hmong, latinos et
+afro-américains « qui croient faire la loi », de ses propres enfants, devenus
+pour lui des étrangers. Walt tue le temps comme il peut, en attendant le grand
+départ, jusqu'au jour où un ado Hmong du quartier tente de lui voler sa
+précieuse Ford Gran Torino...
+----------------------------------------
+
+
+----------------------------------------
+Titre : La soupe aux choux
+Chemin : D:\Divx\TV\Dossier 1\Dossier 2\La soupe aux choux - 1981.mp4
+Année : 1981
+Acteurs : ['Louis de Funès', 'Jean Carmet', 'Jacques Villeret', 'Claude Gensac', 'Christine Dejoux', 'Henri Génès', 'Marco Perrin', 'Max Montavon', 'Perrette Souplex', 'Philippe Brizard', 'Philippe Ruggieri', 'Thierry Liagre', 'Catherine Ohotnikoff', 'Gaëlle Legrand']
+Genre : ['Comédie', 'Science-Fiction']
+Pays : ['France']
+Affiche : http://image.tmdb.org/t/p/w400/uLr4JRge0stGwctrDala84aiRF9.jpg
+Durée (mn) : 98
+Metteur en scène : ['Jean Girault']
+Auteur : []
+Musique : ['Raymond Lefevre']
+Synopsis : Au hameau de Gourdifflots, en plein Bourbonnais, deux paysans retraités, «le
+Glaude» et «le Bombé», se tiennent volontairement à l'écart du monde extérieur,
+plus occupés à faire bombance et à honorer la dive bouteille qu'à se soucier de
+la marche du siècle. Un soir, après bien des excès alimentaires et un formidable
+concours de pets, ils voient avec étonnement une soucoupe volante se poser dans
+leur jardin. Le Glaude accueille comme un vieil ami le curieux et débonnaire
+extraterrestre et lui offre un peu de sa fameuse soupe aux choux, si délectable
+que «la Denrée», surnom de l'extraterrestre, va fidèlement revenir, conquis par
+le goût exquis du potage...
+----------------------------------------
+
+
+----------------------------------------
+Titre : Les Misérables
+Chemin : D:\Divx\TV\Dossier 1\Dossier 2\Les Misérables - 1917.mp4
+Année : 1917
+Acteurs : ['William Farnum', 'George Moss', 'Hardee Kirkland', 'Gretchen Hartman']
+Genre : ['Drame']
+Pays : []
+Affiche : http://image.tmdb.org/t/p/w400/7AOVSTPZyMYcZKHBxKDeCgCVzyW.jpg
+Durée (mn) : 90
+Metteur en scène : ['Frank Lloyd']
+Auteur : []
+Musique : []
+Synopsis : 
+----------------------------------------
+
+

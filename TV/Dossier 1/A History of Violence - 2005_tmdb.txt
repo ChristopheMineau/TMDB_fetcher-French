@@ -1,0 +1,15 @@
+Titre : A History of Violence
+Chemin : D:\Divx\TV\Dossier 1\A History of Violence - 2005.mp4
+Année : 2005
+Acteurs : ['Viggo Mortensen', 'Maria Bello', 'Heidi Hayes', 'Ashton Holmes', 'William Hurt', 'Ed Harris', 'Peter MacNeill', 'Stephen McHattie', 'Greg Bryk', 'Kyle Schmid', 'Sumela Kay', 'Gerry Quigley', 'Deborah Drakeford', 'Bill MacDonald', 'Aidan Devine', 'Morgan Kelly', 'Ian Matthews', 'Jason Barbeck', 'Bruce Beaton', 'Neven Pajkic']
+Genre : ['Drame', 'Thriller', 'Crime']
+Pays : ['United States of America', 'Canada', 'Germany']
+Affiche : http://image.tmdb.org/t/p/w400/keHREQ9jRiHp7ja1SM8xmDCo6vI.jpg
+Durée (mn) : 95
+Metteur en scène : ['David Cronenberg']
+Auteur : ['Josh Olson']
+Musique : ['Howard Shore', 'Karen Elliott', 'Jennifer Dunnington']
+Synopsis : Tom Stall, un père de famille à la vie paisiblement tranquille, abat dans un
+réflexe de légitime défense son agresseur dans un restaurant. Il devient alors
+un personnage médiatique, dont l'existence est dorénavant connue du grand
+public...

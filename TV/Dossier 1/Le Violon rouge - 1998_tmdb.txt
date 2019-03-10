@@ -1,0 +1,16 @@
+Titre : Le Violon rouge
+Chemin : D:\Divx\TV\Dossier 1\Le Violon rouge - 1998.avi
+Année : 1998
+Acteurs : ['Carlo Cecchi', 'Irene Grazioli', 'Anita Laurenzi', 'Tommaso Puntelli', 'Samuele Amighetti', 'Jean-Luc Bideau', 'Aldo Brugnini', 'Christoph Koncz', 'Clotilde Mollet', 'Florentín Groll', 'Johannes Silberschneider', 'Rainer Egger', 'Paul Koeker', 'Wolfgang Böck', 'Josef Mairginter', 'Johan Gotsch', 'Geza Hosszu-Legocky', 'David Alberman', 'Arthur Denberg', 'Andrzej Matuszewiski', 'Jason Flemyng', 'Greta Scacchi', 'Eva Marie Bryer', 'Dimitri Andreas', 'David Gant', 'Sai-Kit Yung', 'Sylvia Chang', 'Zifeng Liu', 'Hong Tao', 'Xio Fei Han', 'Zheng Wei Tan', 'Zhi Qing Zhou', 'Zhi Qiao', 'Kun Qi Cao', 'Rei Yang', 'Lidou', 'Samuel L. Jackson', 'Colm Feore', 'Monique Mercure', 'Don McKellar', 'Ireneusz Bogajewicz', 'Julian Richings', 'Russell Yuen', 'Sandra Oh', 'Paula de Vasconcelos', 'Rémy Girard', 'Marie-Josée Gauthier', 'Dany Laferrière', 'Dorothée Berryman', 'David La Haye', 'Gregory Hlady', 'Herman Meckler', 'Sheena Macdonald', 'Jody Shapiro', 'James Bradford', 'Joshua Bell', 'Sylvia Stewart', 'Wang Xiaoshuai']
+Genre : ['Drame', 'Thriller', 'Mystère', 'Musique', 'Romance']
+Pays : ['Canada', 'Italy', 'United Kingdom']
+Affiche : http://image.tmdb.org/t/p/w400/e1YM8IYf04OJvFbVNntBMug7tQw.jpg
+Durée (mn) : 140
+Metteur en scène : ['François Girard']
+Auteur : []
+Musique : ['Matthias Gohl']
+Synopsis : Il y a 4 siècles, le luthier Bussotti perdit sa femme et son fils naissant. Fou
+de chagrin, il vernit avec le sang de la défunte le violon qu'il avait
+confectionné pour son futur enfant. Accompagné d'une étrange prophétie de
+passion, de génie et de mort, l'instrument bouleversera jusqu'à nos jours le
+destin de ses différents possesseurs...

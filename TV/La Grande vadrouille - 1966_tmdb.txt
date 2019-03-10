@@ -1,0 +1,16 @@
+Titre : La Grande vadrouille
+Chemin : D:\Divx\TV\La Grande vadrouille - 1966.mpg
+Année : 1966
+Acteurs : ['Bourvil', 'Louis de Funès', 'Terry-Thomas', 'Claudio Brook', 'Mike Marshall', 'Marie Dubois', 'Pierre Bertin', 'Andréa Parisy', 'Mary Marquet', 'Benno Sterzenbach', 'Paul Préboist', 'Henri Génès', 'Colette Brosset', 'Catherine Marshall', 'Rudy Lenoir', 'Michel Modo', 'Jacques Bodoin', 'Gabriel Gobin', 'Clément Michu', 'Guy Grosso', 'Jean Droze', 'Paul Mercey', 'Jean Minisini', 'Georges Atlas', 'Danièle Thompson', 'Rémy Julienne', 'Mag-Avril', 'Pierre Roussel', 'Sieghardt Rupp', 'Helmuth Schneider', 'Hans Meyer', 'Christian Brocard', 'Fred Fischer', 'Claude Salez', 'Percival Russel', 'Raymond Pierson', 'Guy Bonnafoux', 'Tony Rödel', 'Pierre Bastien', 'Peter Jacob', 'Noël Darzal', 'Jacques Sablon', 'Konrad Von Bork', 'Jerry Brouer', 'Jean-Pierre Posier', 'George Birt', 'Nicolas Bang', 'Alice Field', 'P. Stutz', 'Jacques Beyster', 'H. Faupel', 'Charly Constant', 'Sacha Tarride', 'Joachim Westhoff', 'Anne Berger', 'Horst Miessner', 'Reinhard Kolldehoff']
+Genre : ['Comédie', 'Guerre']
+Pays : ['France', 'United Kingdom']
+Affiche : http://image.tmdb.org/t/p/w400/kXBawoZ7QsNV7rt4IZEks3dYxOU.jpg
+Durée (mn) : 132
+Metteur en scène : ['Gérard Oury']
+Auteur : ['Gérard Oury', 'Marcel Jullian', 'Danièle Thompson']
+Musique : ['Georges Auric']
+Synopsis : En 1942, un avion anglais est abattu par les Allemands au-dessus de Paris. Les
+trois pilotes sautent en parachute et atterrissent dans différents endroits de
+la capitale. Ils sont aidés par deux civils français, un chef d'orchestre et un
+peintre en bâtiment qui acceptent de les mener en zone libre; ils deviennent
+ainsi, malgré eux, acteurs de la Résistance.

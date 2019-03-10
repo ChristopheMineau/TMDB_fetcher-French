@@ -1,0 +1,17 @@
+Fichier édité le 2019-03-09 15:13:04.561959 par TMDB_fetcher.py version 1.0.
+Copyright C.Mineau - TMDB_fetcher.py est disponible ici : https://github.com/ChristopheMineau/TMDB_fetcher-French.
+La base contient à cette date 13 films.
+
+Titre: 'Baby'    --- Année: '2015'    --- Fiche: oui  --- D:\Divx\TV\Baby - 2015.mpg  
+Titre: 'La Grande vadrouille'    --- Année: '1966'    --- Fiche: oui  --- D:\Divx\TV\La Grande vadrouille - 1966.mpg  
+Titre: 'La Machine à explorer le temps'    --- Année: '2002'    --- Fiche: oui  --- D:\Divx\TV\La Machine à explorer le temps - 2002.avi  
+Titre: 'Marie-Antoinette'    --- Année: '2006'    --- Fiche: oui  --- D:\Divx\TV\Marie-Antoinette - 2006.mp4  
+Titre: 'A History of Violence'    --- Année: '2005'    --- Fiche: oui  --- D:\Divx\TV\Dossier 1\A History of Violence - 2005.mp4  
+Titre: 'Casino Royale'    --- Année: '2006'    --- Fiche: oui  --- D:\Divx\TV\Dossier 1\Casino Royale - 2006.mp4  
+Titre: 'L'insoutenable légèreté de l'être'    --- Année: '1988'    --- Fiche: oui  --- D:\Divx\TV\Dossier 1\L'insoutenable légèreté de l'être - 1988.avi  
+Titre: 'Le Violon rouge'    --- Année: '1998'    --- Fiche: oui  --- D:\Divx\TV\Dossier 1\Le Violon rouge - 1998.avi  
+Titre: 'truc NOTMDB'    --- Année: 'None'    --- Fiche: non  --- D:\Divx\TV\Dossier 1\truc_NOTMDB.avi  
+Titre: 'Diva'    --- Année: '1981'    --- Fiche: oui  --- D:\Divx\TV\Dossier 1\Dossier 2\Diva - 1981.avi  
+Titre: 'Gran Torino'    --- Année: '2008'    --- Fiche: oui  --- D:\Divx\TV\Dossier 1\Dossier 2\Gran Torino - 2008.avi  
+Titre: 'La soupe aux choux'    --- Année: '1981'    --- Fiche: oui  --- D:\Divx\TV\Dossier 1\Dossier 2\La soupe aux choux - 1981.mp4  
+Titre: 'Les Misérables'    --- Année: '1917'    --- Fiche: oui  --- D:\Divx\TV\Dossier 1\Dossier 2\Les Misérables - 1917.mp4  
