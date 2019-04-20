@@ -236,7 +236,7 @@ class Film:
         if DO_NOT_INDEX in f:    # filters explicitely what must not be indexed
             return False
         filename, file_extension = os.path.splitext(f)
-        return file_extension.lower() in {'.avi', '.mp4', '.mpg', '.mpeg'}
+        return file_extension.lower() in {'.avi', '.mp4', '.mpg', '.mpeg', '.mkv'}
     
     @classmethod
     def doesSheetAlreadyExist(cls, f, dontKeepIfExist):
