@@ -524,6 +524,7 @@ class Film:
         try:
             downloadName = wget.download(self.poster, out=posterPath)
             LOGGER.info("Affiche téléchargée : {}".format(posterPath))
+            print("\n\n")
         except:
             LOGGER.warn("Echec de téléchargement: {}".format(self.poster)) 
             return
